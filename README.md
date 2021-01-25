@@ -2,16 +2,15 @@
 
 I'm a self-taught developer with a great passion for technology and an ambition to become a full-stack engineer.
 
-- Skilled in **HTML**, **CSS**, **JavaScript**, and **React**. 
-- Experienced in **Node.js**, **Express**, **MongoDB**, and **RESTful APIs**.
+Skilled in **HTML**, **CSS**, **JavaScript**, and **React**. 
+Experienced in **Node.js**, **Express**, **MongoDB**, and **RESTful APIs**.
 
-📫 Email : roynulrohan@gmail.com
 
  [![Linkedin Badge](https://img.shields.io/badge/-Roynul%20Rohan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roynul-rohan/)](https://www.linkedin.com/in/roynul-rohan/) [![Website Badge](https://img.shields.io/badge/-Portfolio%20Site-critical?style=flat&logo=Google-Chrome&logoColor=white&link=https://roynulrohan.github.io)](https://roynulrohan.github.io)
 
 
 
-[![Roynul Rohan's Github Stats](https://github-readme-stats.vercel.app/api?username=roynulrohan&hide=contribs,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Roynul Rohan's Github Stats](https://github-readme-stats.vercel.app/api?username=roynulrohan&hide=contribs,issues&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roynulrohan&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
