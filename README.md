@@ -1,11 +1,5 @@
 # Hello! Welcome to my GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a front-end developer driven by a great passion to build quality web applications. Experienced in developing single page React apps and a knack for creating attractive user interfaces. Going down the road of becoming a full-stack engineer and seeking to build beautiful products with powerful and latest technologies. 
-
-- Skilled in **HTML**, **CSS**, **JavaScript**, and **React**. 
-- Experienced in **Node.js**, **Express**, **MongoDB**, and **RESTful APIs**.
-
-
  [![Linkedin Badge](https://img.shields.io/badge/-Roynul%20Rohan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roynul-rohan/)](https://www.linkedin.com/in/roynul-rohan/) [![Website Badge](https://img.shields.io/badge/-Portfolio%20Site-critical?style=flat&logo=Google-Chrome&logoColor=white&link=https://roynulrohan.github.io)](https://roynulrohan.github.io)
 
 
