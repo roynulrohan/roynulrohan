@@ -1,16 +1,3 @@
-<h3 align="center">
-	Hello and Welcome 👋
-</h3>
-
-<p align="center">
-My name is Roynul Rohan and I'm a computer engineering student from Canada.<br/>
-💬 Reach me by  <a href="mailto:roynulrohan@gmail.com">email</a><br/>
-	<br/>
-	<a href="https://www.linkedin.com/in/roynul-rohan/"><img src="https://img.shields.io/badge/-Roynul%20Rohan-blue?style=flat&logo=Linkedin&logoColor=white"/>
-	</a><a href="https://roynulrohan.github.io"><img src="https://img.shields.io/badge/-Portfolio%20Site-critical?style=flat&logo=Google-Chrome&logoColor=white"/>
-	</a>
-</p>
-
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=roynulrohan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </p>
